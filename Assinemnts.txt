@@ -1,0 +1,3 @@
+1- Text Search Engine: Create a multi-threaded application that searches for a specific word in all lines of a given string. Each thread should search in one line in the string.If one thread finds the word, all threads should stop searching.
+
+2- Producer-Consumer Problem: Implement the producer-consumer scenario using threads, where producer threads create data items and place them in a buffer, and consumer threads remove and process those items. Use synchronization mechanisms to handle the access to the shared buffer.

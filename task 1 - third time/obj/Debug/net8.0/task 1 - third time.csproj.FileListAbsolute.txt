@@ -1,0 +1,14 @@
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 1 - third time\bin\Debug\net8.0\task 1 - third time.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 1 - third time\bin\Debug\net8.0\task 1 - third time.deps.json
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 1 - third time\bin\Debug\net8.0\task 1 - third time.runtimeconfig.json
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 1 - third time\bin\Debug\net8.0\task 1 - third time.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 1 - third time\bin\Debug\net8.0\task 1 - third time.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 1 - third time\obj\Debug\net8.0\task 1 - third time.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 1 - third time\obj\Debug\net8.0\task 1 - third time.AssemblyInfoInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 1 - third time\obj\Debug\net8.0\task 1 - third time.AssemblyInfo.cs
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 1 - third time\obj\Debug\net8.0\task 1 - third time.csproj.CoreCompileInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 1 - third time\obj\Debug\net8.0\task 1 - third time.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 1 - third time\obj\Debug\net8.0\refint\task 1 - third time.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 1 - third time\obj\Debug\net8.0\task 1 - third time.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 1 - third time\obj\Debug\net8.0\task 1 - third time.genruntimeconfig.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 1 - third time\obj\Debug\net8.0\ref\task 1 - third time.dll

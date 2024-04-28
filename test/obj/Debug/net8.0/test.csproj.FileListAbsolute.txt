@@ -1,0 +1,14 @@
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\test\bin\Debug\net8.0\test.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\test\bin\Debug\net8.0\test.deps.json
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\test\bin\Debug\net8.0\test.runtimeconfig.json
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\test\bin\Debug\net8.0\test.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\test\bin\Debug\net8.0\test.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\test\obj\Debug\net8.0\test.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\test\obj\Debug\net8.0\test.AssemblyInfoInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\test\obj\Debug\net8.0\test.AssemblyInfo.cs
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\test\obj\Debug\net8.0\test.csproj.CoreCompileInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\test\obj\Debug\net8.0\test.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\test\obj\Debug\net8.0\refint\test.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\test\obj\Debug\net8.0\test.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\test\obj\Debug\net8.0\test.genruntimeconfig.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\test\obj\Debug\net8.0\ref\test.dll

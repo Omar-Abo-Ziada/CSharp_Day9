@@ -1,0 +1,14 @@
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 2 another sol\obj\Debug\net8.0\task 2 another sol.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 2 another sol\obj\Debug\net8.0\task 2 another sol.AssemblyInfoInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 2 another sol\obj\Debug\net8.0\task 2 another sol.AssemblyInfo.cs
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 2 another sol\obj\Debug\net8.0\task 2 another sol.csproj.CoreCompileInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 2 another sol\bin\Debug\net8.0\task 2 another sol.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 2 another sol\bin\Debug\net8.0\task 2 another sol.deps.json
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 2 another sol\bin\Debug\net8.0\task 2 another sol.runtimeconfig.json
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 2 another sol\bin\Debug\net8.0\task 2 another sol.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 2 another sol\bin\Debug\net8.0\task 2 another sol.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 2 another sol\obj\Debug\net8.0\task 2 another sol.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 2 another sol\obj\Debug\net8.0\refint\task 2 another sol.dll
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 2 another sol\obj\Debug\net8.0\task 2 another sol.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 2 another sol\obj\Debug\net8.0\task 2 another sol.genruntimeconfig.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\task 2 another sol\obj\Debug\net8.0\ref\task 2 another sol.dll

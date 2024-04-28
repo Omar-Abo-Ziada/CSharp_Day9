@@ -1,0 +1,4 @@
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\Day 9 - Assignment 1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\Day 9 - Assignment 1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\Day 9 - Assignment 1\obj\Debug\net8.0\Assignment1.AssemblyInfo.cs
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day9\Day 9 - Assignment 1\obj\Debug\net8.0\Assignment1.csproj.CoreCompileInputs.cache
